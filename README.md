@@ -18,12 +18,12 @@ Libraries:
 
 # Installation
 1. Clone the repository
-git clone https://github.com/yourusername/virtual-assistant.git
-cd virtual-assistant
+   git clone https://github.com/yourusername/virtual-assistant.git
+   cd virtual-assistant
 
 2. Install depandencies
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3.Run the Application
-python app.py
+  python app.py
 
