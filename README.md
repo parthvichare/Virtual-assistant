@@ -13,7 +13,7 @@ Welcome to the Virtual Assistant project! This virtual assistant is built on a N
 - Programming Language: Python
 - Machine Learning Algorithm: Naive Bayes
   
-Libraries:
+# Libraries:
 - nltk for natural language processing
 - sklearn for implementing the Naive Bayes classifier
 - flask for creating the API
