@@ -1,7 +1,8 @@
 # Virtual-assistant
 
-Welcome to the Virtual Assistant project! This virtual assistant is built on a Natural Language Processing (NLP) based model using the Naive Bayes Algorithm. It provides users with a robust and efficient way to interact with the assistant via an API.
 ![Virtual Assistant Demo](https://github.com/parthvichare/Virtual-assistant/blob/main/Virtual.jpg)
+
+Welcome to the Virtual Assistant project! This virtual assistant is built on a Natural Language Processing (NLP) based model using the Naive Bayes Algorithm. It provides users with a robust and efficient way to interact with the assistant via an API.
 
 ## Features
 - Natural Language Processing (NLP): The virtual assistant leverages NLP to understand and process user inputs.
