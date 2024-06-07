@@ -26,6 +26,6 @@ Libraries:
 2. Install depandencies
    pip install -r requirements.txt
 
-3.Run the Application
-  python app.py
+3. Run the Application
+   python app.py
 
