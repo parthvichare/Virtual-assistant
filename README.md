@@ -15,3 +15,15 @@ Libraries:
 - nltk for natural language processing
 - sklearn for implementing the Naive Bayes classifier
 - flask for creating the API
+
+# Installation
+1. Clone the repository
+git clone https://github.com/yourusername/virtual-assistant.git
+cd virtual-assistant
+
+2. Install depandencies
+pip install -r requirements.txt
+
+3.Run the Application
+python app.py
+
