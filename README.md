@@ -4,6 +4,9 @@
 
 Welcome to the Virtual Assistant project! This virtual assistant is built on a Natural Language Processing (NLP) based model using the Naive Bayes Algorithm. It provides users with a robust and efficient way to interact with the assistant via an API.
 
+## Flow Chart:- Work-flow of model
+WhatsApp Image 2024-01-28 at 22.46.12.jpeg
+
 ## Features
 - Natural Language Processing (NLP): The virtual assistant leverages NLP to understand and process user inputs.
 - Naive Bayes Algorithm: A powerful and straightforward probabilistic classifier that forms the backbone of the virtual assistant's decision-making process.
